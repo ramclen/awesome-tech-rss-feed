@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of Weekly Web Tech</title>
+  </head>
+  <body>
+    <outline text="Weekly-Dev" title="Weekly-Dev">
+      <outline text="Weekly React Digest" title="Weekly React Digest" type="rss" xmlUrl="https://feeds.feedburner.com/digest-react" htmlUrl="https://reactdigest.net/"/>
+      <outline text="HTML5 Weekly" title="HTML5 Weekly" type="rss" xmlUrl="https://html5weekly.com/rss" htmlUrl="https://html5weekly.com/"/>
+      <outline text="CSS Weekly" title="CSS Weekly" type="rss" xmlUrl="https://feeds.feedburner.com/CSS-Weekly" htmlUrl="https://css-weekly.com/"/>
+      <outline text="JavaScript Weekly" title="JavaScript Weekly" type="rss" xmlUrl="https://javascriptweekly.com/rss" htmlUrl="https://javascriptweekly.com/"/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of Web Tech News</title>
+  </head>
+  <body>
+    <outline text="Web" title="Web">
+      <outline text="Codrops" title="Codrops" type="rss" xmlUrl="https://tympanus.net/codrops/feed/" htmlUrl="https://tympanus.net/codrops"/>
+      <outline text="CSS Weekly" title="CSS Weekly" type="rss" xmlUrl="https://feeds.feedburner.com/CSS-Weekly" htmlUrl="https://css-weekly.com/"/>
+      <outline text="Google" title="Google" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA" htmlUrl="https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA/videos"/>
+    </outline>
+    <outline text="reddit" title="reddit">
+      <outline text="/r/ReactJS - The Front Page of React" title="/r/ReactJS - The Front Page of React" type="rss" xmlUrl="https://www.reddit.com/r/reactjs/.rss?" htmlUrl="https://www.reddit.com/r/reactjs/"/>
+    </outline>
+  </body>
+</opml>
