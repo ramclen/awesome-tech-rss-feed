@@ -15,6 +15,8 @@
       <outline text="Google Developers Blog" title="Google Developers Blog" type="rss" xmlUrl="https://developers.googleblog.com/feeds/posts/default" htmlUrl="http://developers.googleblog.com/"/>
       <outline text="The Verge -  Tech Posts" title="The Verge -  Tech Posts" type="rss" xmlUrl="https://www.theverge.com/tech/rss/index.xml" htmlUrl="https://www.theverge.com/tech"/>
       <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="http://techcrunch.com/"/>
+      <outline text="Joho no Todai (English)" title="Joho no Todai (English)" type="rss" xmlUrl="https://joho-todai.com/en/rss/" htmlUrl="https://joho-todai.com/"/>
+      <outline text="Joho no Todai (Japanese)" title="Joho no Todai (Japanese)" type="rss" xmlUrl="https://joho-todai.com/rss/" htmlUrl="https://joho-todai.com/"/>
     </outline>
     <outline text="Engineer" title="Engineer">
       <outline text="Interesting Engineering" title="Interesting Engineering" type="rss" xmlUrl="https://interestingengineering.com/feed" htmlUrl="https://interestingengineering.com/feed"/>
